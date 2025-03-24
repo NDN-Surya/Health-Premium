@@ -1,5 +1,3 @@
-# ml-project-premium-prediction
- health insurance prediction project
 
 # Healthcare Premium Prediction
 
