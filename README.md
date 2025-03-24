@@ -48,3 +48,50 @@ XGBoost was chosen for its ability to handle tabular data efficiently and its st
 
 For more details on data cleaning, feature engineering techniques, model training, and evaluation, refer to the notebooks in the `code/` folder.
 
+---
+
+## Setup
+
+### Dependencies Installation
+Ensure you have Python installed. Clone the repository and run the following commands to install dependencies:
+
+```bash
+# Clone the repository
+git clone https://github.com/NDN-Surya/Healthcare-Premium-Prediction.git
+
+# Navigate to the project directory
+cd Healthcare-Premium-Prediction
+
+# Create a virtual environment
+python -m venv venv
+
+# Activate the virtual environment
+# For Windows
+venv\Scripts\activate
+# For Mac/Linux
+source venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+### Running the App
+To start the Streamlit app:
+
+```bash
+streamlit run app/main.py
+```
+
+---
+
+## Future Enhancements
+- Expanding the dataset for better generalization.
+- Incorporating additional features to improve model accuracy.
+- Deploying the app on a cloud platform for broader accessibility.
+
+---
+
+Feel free to contribute or raise issues for further improvements!
+
+
+
