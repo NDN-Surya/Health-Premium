@@ -54,7 +54,7 @@ The `code/` folder contains scripts and notebooks used for model development. Th
 
 ## Technical Aspects
 
-Model Selection
+### Model Selection
 
 Multiple models were evaluated during this project, including:
 
