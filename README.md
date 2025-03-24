@@ -87,7 +87,6 @@ streamlit run app/main.py
 ## Future Enhancements
 - Expanding the dataset for better generalization.
 - Incorporating additional features to improve model accuracy.
-- Deploying the app on a cloud platform for broader accessibility.
 
 ---
 
