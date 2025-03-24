@@ -6,11 +6,29 @@
 ## Overview
 This repository contains a project aimed at predicting healthcare insurance premiums using advanced machine learning techniques. The dataset includes various features such as age, BMI, and smoking status to predict insurance premiums accurately.
 
-## Motivation and Goals
-The motivation behind this project is to provide a tool for predicting healthcare insurance premiums accurately and efficiently, thereby helping both insurers and customers. The goals include:
-- Building a robust predictive model.
-- Reducing errors in premium predictions, especially for specific age groups.
-- Ensuring interpretability and reliability of the models.
+---
+
+## Motivation
+
+Health insurance is a critical component of financial planning, and setting premiums is a complex process influenced by multiple factors. Accurate prediction of premiums:
+
+- Enhances transparency in the insurance industry.
+- Helps companies optimize their pricing strategies.
+- Empowers customers to make informed decisions.
+
+This project addresses these needs using data-driven approaches to predict premiums based on historical data.
+
+---
+
+## Goals
+
+The primary objectives of this project are:
+
+1. **Develop a machine learning pipeline** to predict health insurance premiums accurately.
+2. **Understand the influence of key features** (e.g., age, BMI, smoking habits) on premium costs.
+3. **Provide an explainable model** that aids decision-making for both insurers and policyholders.
+
+---
 
 ## Project Structure
 The project is organized into the following main components:
