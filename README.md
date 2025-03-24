@@ -54,10 +54,13 @@ The `code/` folder contains scripts and notebooks used for model development. Th
 
 ## Technical Aspects
 
-### Model Selection
-XGBoost was chosen for its ability to handle tabular data efficiently and its strong performance with tree-based methods. The following models were trained and evaluated:
-- A single model for the entire dataset.
-- Separate models for individuals under 25 and those 25 and older, both with and without the `Genetical_Risk` column.
+Model Selection
+
+Multiple models were evaluated during this project, including:
+
+Linear Regression: Initially tested for its simplicity, but it failed to capture non-linear relationships.
+
+XGBoost: Selected for its ability to model non-linear relationships effectively and achieve high accuracy across various subsets of data.
 
 ### Libraries and Tools
 - **Python**: Programming language for all scripts and notebooks.
