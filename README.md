@@ -6,6 +6,8 @@ This repository contains a project aimed at predicting healthcare insurance prem
 
 ---
 
+![Project Screenshot]("C:\Users\surya\OneDrive\Pictures\Screenshots\Screenshot (95).png")
+
 ## Motivation
 
 Health insurance is a critical component of financial planning, and setting premiums is a complex process influenced by multiple factors. Accurate prediction of premiums:
