@@ -6,7 +6,7 @@ This repository contains a project aimed at predicting healthcare insurance prem
 
 ---
 
-Screenshot (97).png=@Screenshot (97).png,0
+![Health Insurance Cost Predictor](image%201/Screenshot%20(97).png)
 
 ## Motivation
 
