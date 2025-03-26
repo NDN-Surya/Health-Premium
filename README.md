@@ -6,7 +6,6 @@ This repository contains a project aimed at predicting healthcare insurance prem
 
 ---
 
-![Project Screenshot]("C:\Users\surya\OneDrive\Pictures\Screenshots\Screenshot (95).png")
 
 ## Motivation
 
