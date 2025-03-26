@@ -6,6 +6,7 @@ This repository contains a project aimed at predicting healthcare insurance prem
 
 ---
 
+![Project Screenshot](image 1/Screenshot (97).png)
 
 ## Motivation
 
